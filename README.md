@@ -1,4 +1,4 @@
-nk-baldwin
+nk-stochastic
 ==========
 
-Studying the Baldwin effect in the NK landscape.
+Studying the stochastic genotype-phenotype mappings in the NK landscape.
